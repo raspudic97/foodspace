@@ -9,6 +9,7 @@
   [ ] Adding dashboard functionalities <br />
   [ ] Replace dummy data with data from database <br />
 <br />
+
 ## Main Page
 <br />
 [ ] Main page design <br />
